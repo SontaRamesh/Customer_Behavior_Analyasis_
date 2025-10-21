@@ -120,5 +120,5 @@ This project analyzes **3,900 customer purchases** across multiple product categ
 
 ## 👨‍💻 Author
 **Ramesh Sonta**  
-📍 Final Year BTech, IARE College  
+📍 BTech Graduate, IARE College  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sonta-ramesh/)
