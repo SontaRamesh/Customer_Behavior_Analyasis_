@@ -3,7 +3,8 @@
 _Uncovering insights from transactional data to guide strategic business decisions._
 
 ---
-[Dashboard preview](customer_behavior_analysis_dashboard.png)
+<img src="Overview_page.png" alt="Preview" width="100%">
+
 
 ---
 
